@@ -1,5 +1,4 @@
 # Discord
-[Dis.html](https://github.com/user-attachments/files/22440317/Dis.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
