@@ -1,6 +1,1 @@
-# Discord![Dis1](https://github.com/user-attachments/assets/c5c64d84-5af4-4d86-9657-d38a8b8bbe26)
-![Dis2](https://github.com/user-attachments/assets/1a5e829f-de73-42e3-ae07-6b06ede209ef)![Dis](https://github.com/user-attachments/assets/af800da7-586a-4284-8ec5-d4189bc84574)
-[Dis.html](https://github.com/user-attachments/files/22440303/Dis.html)
-[Dis.css](https://github.com/user-attachments/files/22440302/Dis.css)
-![Dis4](https://github.com/user-attachments/assets/bfffbc55-cb28-4cff-b43f-a1157bc2a102)
-![Dis3](https://github.com/user-attachments/assets/0412f508-a2f1-431a-b101-99a33e80875e)
+# Discord
